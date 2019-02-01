@@ -1,4 +1,4 @@
-from certifi import *
+# from certifi import *
 from selenium import webdriver
 
 
